@@ -1,19 +1,13 @@
 ### Hi 👋 I'm Asia Kousar.
 
-<!--
-**asiatanvir/asiatanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A MBA graduate and certificate in Fintech from Northwestern university with eight years of international banking experience at a large commercial bank. Proficient with analytical skills and forecasting. Skilled in Python, pandas with a strong interest in machine learning and financial modeling. 
+Managerial Accounting                Forecasting                                 Financial Reporting
+Understanding of Financial Statements and Financial Ratios
+Financial Modeling                      Predictive Modeling                   Risk Analysis                                         Machine Learning    
 
-Here are some ideas to get you started:
-
-- 🔭 A 4.0 GPA MBA graduate and certificate in Fintech from Northwestern university with eight years of international banking experience
-- 🌱 SKILLS
-Platforms/Programs/Tools: Pandas, NumPy, Pyviz, Plotly, Matplotlib,Tensorflow, Scikit-learn.,Finta
+ 
+SKILLS
+Platforms/Programs/Tools: Pandas, NumPy, Pyviz, Plotly, Matplotlib, TensorFlow, Scikit-learn., FINTA, Facebook Prophet
 Languages: Python, SQL
-Concepts: Time Series Analysis, Machine learning applications, Monté Carlo simulations; Logistic Regression,
-- 👯 I’m looking to connect in the field of Finance.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concepts: Time Series Analysis, Machine learning applications, Monté Carlo simulations; Logistic Regression
+
